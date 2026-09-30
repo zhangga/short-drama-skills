@@ -1,0 +1,9 @@
+{
+  "schema_version": "1.0",
+  "assets": [
+    {"asset_id":"char001","kind":"character","name":"小雨","description":"成年女子，雨夜搬入新家。","locked_traits":["齐肩黑发","深蓝雨衣"],"status":"planned","path":null,"version":1,"creative_additions":"本示例原创设定"},
+    {"asset_id":"scene001","kind":"scene","name":"新家门口","description":"门在左侧，桌在室内右侧，走廊在门后方，右侧冷色窗光。","status":"planned","path":null,"version":1},
+    {"asset_id":"prop001","kind":"prop","name":"钥匙","description":"银色钥匙，始终由小雨右手持有。","status":"planned","path":null,"version":1},
+    {"asset_id":"prop002","kind":"prop","name":"茶杯","description":"白色茶杯，杯中残留温茶，放在桌上。","status":"planned","path":null,"version":1}
+  ]
+}

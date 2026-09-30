@@ -1,0 +1,8 @@
+{
+  "schema_version":"1.0","episode_id":"EP001",
+  "clips":[{"clip_id":"Clip001","duration_seconds":15,"shots":[
+    {"shot_id":"S001","start":0,"end":4,"scene_id":"scene001","character_ids":["char001"],"prop_ids":["prop001"],"action":"小雨右手转动钥匙，推门后停在门槛。","dialogue":"","camera":"钥匙特写，缓拉至人物中景。","lighting":"右侧冷色窗光，门内昏暗。","sound":"雨声、锁芯轻响。","continuity":"右手握钥匙，面朝门内。"},
+    {"shot_id":"S002","start":4,"end":9,"scene_id":"scene001","character_ids":["char001"],"prop_ids":["prop001","prop002"],"action":"小雨目光落到右侧桌上。茶杯内残茶泛起微弱热气。","dialogue":"","camera":"人物肩后视点，缓推至茶杯近景。","lighting":"沿用右侧窗光。","sound":"雨声继续，衣料摩擦。","continuity":"人物留在门槛，茶杯在门内右侧。"},
+    {"shot_id":"S003","start":9,"end":15,"scene_id":"scene001","character_ids":["char001"],"prop_ids":["prop001"],"action":"小雨回头望向身后走廊，手收紧钥匙，停住。","dialogue":"谁进来过？","camera":"人物侧面近景，固定机位。","lighting":"同一方向冷光勾出雨衣轮廓。","sound":"小雨低声发问；最后两秒走廊脚步声靠近。","continuity":"右手仍握钥匙，未走入房间。"}
+  ]}]
+}

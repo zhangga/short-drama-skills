@@ -1,0 +1,77 @@
+{
+  "schema_version": "1.0",
+  "created_date": "2026-09-30",
+  "source_url": "https://bytedance.larkoffice.com/wiki/BdgQwEQPHi0EXckhyiOcT8cnn4c",
+  "replication": "functional-reconstruction-not-original-source",
+  "skill_count": 15,
+  "skills": [
+    {
+      "name": "novel-to-video",
+      "entrypoint": ".agents/skills/novel-to-video/SKILL.md"
+    },
+    {
+      "name": "character-design",
+      "entrypoint": ".agents/skills/character-design/SKILL.md"
+    },
+    {
+      "name": "text-storyboard",
+      "entrypoint": ".agents/skills/text-storyboard/SKILL.md"
+    },
+    {
+      "name": "generate-film-video-prompt",
+      "entrypoint": ".agents/skills/generate-film-video-prompt/SKILL.md"
+    },
+    {
+      "name": "generate-image-by-seedream",
+      "entrypoint": ".agents/skills/generate-image-by-seedream/SKILL.md"
+    },
+    {
+      "name": "generate-video-by-seedance",
+      "entrypoint": ".agents/skills/generate-video-by-seedance/SKILL.md"
+    },
+    {
+      "name": "jimeng-skill",
+      "entrypoint": ".agents/skills/jimeng-skill/SKILL.md"
+    },
+    {
+      "name": "nano-banana-pro",
+      "entrypoint": ".agents/skills/nano-banana-pro/SKILL.md"
+    },
+    {
+      "name": "novel-reader",
+      "entrypoint": ".agents/skills/novel-reader/SKILL.md"
+    },
+    {
+      "name": "storyboard-prompt-generator",
+      "entrypoint": ".agents/skills/storyboard-prompt-generator/SKILL.md"
+    },
+    {
+      "name": "doc-to-txt",
+      "entrypoint": ".agents/skills/doc-to-txt/SKILL.md"
+    },
+    {
+      "name": "ffmpeg-install",
+      "entrypoint": ".agents/skills/ffmpeg-install/SKILL.md"
+    },
+    {
+      "name": "ffmpeg-video-processing",
+      "entrypoint": ".agents/skills/ffmpeg-video-processing/SKILL.md"
+    },
+    {
+      "name": "ffmpeg-audio-processing",
+      "entrypoint": ".agents/skills/ffmpeg-audio-processing/SKILL.md"
+    },
+    {
+      "name": "ffmpeg-image-processing",
+      "entrypoint": ".agents/skills/ffmpeg-image-processing/SKILL.md"
+    }
+  ],
+  "validation": {
+    "tests_passed": 12,
+    "tests_failed": 0,
+    "tests_skipped": 0,
+    "skill_format_passed": 15,
+    "paid_generation_tested": false,
+    "real_ffmpeg_operations_tested": 13
+  }
+}
