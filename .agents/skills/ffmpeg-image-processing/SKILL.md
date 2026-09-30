@@ -31,4 +31,4 @@ python <技能目录>/scripts/media.py sheet --input <图1> <图2> --output <拼
 首尾帧必须对应实际素材；图片比例与用途匹配。输出路径已存在则停止；不改变原图，不把抽帧称作新生成画面。
 
 ## 来源与限制
-依据 [技能合集](https://bytedance.larkoffice.com/wiki/BdgQwEQPHi0EXckhyiOcT8cnn4c) 的图像工具能力重建；[FFmpeg 官方文档](https://ffmpeg.org/ffmpeg.html) 为命令依据。
+图像处理工作流参考：[技能合集](https://bytedance.larkoffice.com/wiki/BdgQwEQPHi0EXckhyiOcT8cnn4c)；命令依据：[FFmpeg 官方文档](https://ffmpeg.org/ffmpeg.html)。

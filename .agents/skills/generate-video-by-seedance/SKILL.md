@@ -28,4 +28,4 @@ python <技能目录>/scripts/api.py --kind seedance --model <模型ID> --prompt
 failed/canceled/expired 为终态；succeeded 后仍须下载和观看，批准后才纳入剪辑。缺凭据时交付请求包。选择其他后端需说明切换，不能把手工视频冒称 Seedance 结果。
 
 ## 来源与限制
-依据 [技能合集](https://bytedance.larkoffice.com/wiki/BdgQwEQPHi0EXckhyiOcT8cnn4c) 的 Seedance 能力重建，基础 REST 适配未进行付费线上实测。模型限制需每次使用时核对。
+Seedance 工作流参考：[技能合集](https://bytedance.larkoffice.com/wiki/BdgQwEQPHi0EXckhyiOcT8cnn4c)。基础 REST 适配未进行付费线上实测，模型限制需每次使用时核对。

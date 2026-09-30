@@ -22,4 +22,4 @@ description: 检查或配置 Windows、macOS、Linux 的 FFmpeg/ffprobe，优先
 目标工具可运行，关键能力可用。Python imageio 的 FFmpeg 通常不附带 ffprobe，分别报告。doctor 不安装软件或改系统设置。
 
 ## 来源与限制
-依据 [技能合集](https://bytedance.larkoffice.com/wiki/BdgQwEQPHi0EXckhyiOcT8cnn4c) 的跨平台环境技能重建，安装渠道以当前官方资料为准。
+跨平台环境配置参考：[技能合集](https://bytedance.larkoffice.com/wiki/BdgQwEQPHi0EXckhyiOcT8cnn4c)。安装渠道以当前官方资料为准。

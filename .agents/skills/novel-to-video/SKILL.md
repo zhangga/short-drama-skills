@@ -34,4 +34,4 @@ python <本技能目录>/scripts/project.py status --root <作品目录>
 账本登记：`project.py record --root <作品目录> --id <clip或资产ID> --status <状态> --inputs <输入文件...> [--output <产物文件>] [--task-id <供应商ID>]`。状态含 `planned/submitted/unknown/succeeded/approved/rejected/failed`；status 命令检查哈希和产物缺失，`approved` 由审看后显式登记。
 
 ## 来源与限制
-依据 [AI短剧漫剧创作 Skills 大合集](https://bytedance.larkoffice.com/wiki/BdgQwEQPHi0EXckhyiOcT8cnn4c) 的功能说明重建，非作者源码。故事审核、状态账本与验收规则为本地增强；提示词和参考图提升可控性，不能保证生成完全可复现。
+工作流设计参考：[AI短剧漫剧创作 Skills 大合集](https://bytedance.larkoffice.com/wiki/BdgQwEQPHi0EXckhyiOcT8cnn4c)。本套件提供故事审核、状态账本与验收规则；提示词和参考图提升可控性，不能保证生成完全可复现。

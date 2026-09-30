@@ -27,4 +27,4 @@ python <技能目录>/scripts/api.py --kind gemini --model <实际模型ID> --pr
 无图像、被拦截或未知响应要明确失败，不输出假图片。超时不自动重发。已生成图的固有标记按服务规则保留，不承诺所有产物无水印。
 
 ## 来源与限制
-依据 [技能合集](https://bytedance.larkoffice.com/wiki/BdgQwEQPHi0EXckhyiOcT8cnn4c) 的 Gemini 图像能力重建；脚本未做付费线上实测。
+Gemini 图像工作流参考：[技能合集](https://bytedance.larkoffice.com/wiki/BdgQwEQPHi0EXckhyiOcT8cnn4c)。脚本未做付费线上实测。

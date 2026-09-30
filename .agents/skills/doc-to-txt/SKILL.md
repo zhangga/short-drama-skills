@@ -23,4 +23,4 @@ description: 将 DOC、DOCX、PDF 或其他编码 TXT 转成 UTF-8 纯文本，�
 有非空正文且关键内容顺序正确；脚本失败非零退出，不覆写原稿。重新转换写新文件并使旧阅读进度失效。工具成功退出不证明布局复杂的 PDF 已正确还原。
 
 ## 来源与限制
-依据 [技能合集](https://bytedance.larkoffice.com/wiki/BdgQwEQPHi0EXckhyiOcT8cnn4c) 的转换能力重建；DOC/PDF 的外部依赖按本机情况选择。
+文档转换工作流参考：[技能合集](https://bytedance.larkoffice.com/wiki/BdgQwEQPHi0EXckhyiOcT8cnn4c)。DOC/PDF 的外部依赖按本机情况选择。

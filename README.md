@@ -1,6 +1,6 @@
-# 短剧创作 Skills 功能复刻
+# Short Drama Skills · 短剧创作技能套件
 
-已按飞书《AI短剧漫剧创作 Skills 大合集》重建全部 **15 个 skills**，包含创作流程、配套脚本、原创接口示例和测试。原文未提供完整技能源码，因此这是功能复刻；增强内容和实现范围见 [评估报告](docs/流程评估.md)。
+一套面向 AI 短剧创作的 **15 个 skills**，覆盖故事开发、角色设计、文字分镜、图像与视频生成、剪辑合成。提供配套脚本、原创示例和测试，支持按集管理素材与断点续做。工作流与实现范围见 [设计说明](docs/流程评估.md)。
 
 技能保存在本仓库的 `.agents/skills`，按项目使用，无需安装进全局技能目录。
 
@@ -61,3 +61,5 @@ python .agents/skills/text-storyboard/scripts/validate_storyboard.py examples/�
 FFmpeg 可通过 `DRAMA_FFMPEG` 指定路径，ffprobe 独立通过 `DRAMA_FFPROBE` 指定。本机验证时 FFmpeg 可用、ffprobe 缺失；已实测完整解码与处理，尚未实测 ffprobe 元数据校验。
 
 查看 [验证记录](docs/验证记录.md) 和 [原创示例](examples/雨夜钥匙/创作简报与剧本.md)。这些验证没有付费生成 AI 图片／视频，也没有创建实际成片。
+
+设计参考：[《AI短剧漫剧创作 Skills 大合集》](https://bytedance.larkoffice.com/wiki/BdgQwEQPHi0EXckhyiOcT8cnn4c)。

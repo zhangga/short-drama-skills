@@ -23,4 +23,4 @@ description: 为短剧或动画创作角色外观设定、16:9 三视图角色�
 人物能凭轮廓与关键配色区分；视图之间为同一角色；创作补充可追溯。错误只重做相关视图；修改锁定特征需新版本并检查受影响镜头。只写提示词时标记 planned，生成后标记 generated，观看通过才 approved。
 
 ## 来源与限制
-依据 [技能合集](https://bytedance.larkoffice.com/wiki/BdgQwEQPHi0EXckhyiOcT8cnn4c) 的角色设计用例重建；人物一致性仍依赖参考能力和实际审看。
+角色设计参考：[技能合集](https://bytedance.larkoffice.com/wiki/BdgQwEQPHi0EXckhyiOcT8cnn4c)。人物一致性仍依赖参考能力和实际审看。

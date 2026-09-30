@@ -23,4 +23,4 @@ description: 分段阅读长篇小说并维护人物、场景、道具资产及�
 文本偏移覆盖连续，未读内容不得写成已核实。输入哈希变化时拒绝接着旧进度读；创建新进度文件并重新对齐。脚本不会在 next 时提前推进游标；result 需先落盘再 commit，避免中断后漏读。
 
 ## 来源与限制
-依据 [技能合集](https://bytedance.larkoffice.com/wiki/BdgQwEQPHi0EXckhyiOcT8cnn4c) 的 3000 字符、语义抽取和断点读取原则重建；块大小可调，不把所有模型上下文固定成 128k。
+分段阅读、语义抽取和断点记录参考：[技能合集](https://bytedance.larkoffice.com/wiki/BdgQwEQPHi0EXckhyiOcT8cnn4c)。默认每块 3000 字符，块大小可调，按实际模型与工具能力选择。

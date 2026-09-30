@@ -23,4 +23,4 @@ description: 将电影或动画文字分镜变成单镜关键帧或故事板图�
 图与对应镜头的时间点一致，跨镜空间有依据。分镜图是可选中间产物：纯参考图视频流程已能表达镜头时，不强制每镜烧一张图。变更分镜后重做受影响图。
 
 ## 来源与限制
-依据 [技能合集](https://bytedance.larkoffice.com/wiki/BdgQwEQPHi0EXckhyiOcT8cnn4c) 的故事板提示词能力重建；未提供原始模板，以上为功能实现。
+故事板提示词工作流参考：[技能合集](https://bytedance.larkoffice.com/wiki/BdgQwEQPHi0EXckhyiOcT8cnn4c)。本技能输出静态构图指令，实际画面需通过选定图像后端生成并审看。

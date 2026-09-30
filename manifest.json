@@ -2,7 +2,8 @@
   "schema_version": "1.0",
   "created_date": "2026-09-30",
   "source_url": "https://bytedance.larkoffice.com/wiki/BdgQwEQPHi0EXckhyiOcT8cnn4c",
-  "replication": "functional-reconstruction-not-original-source",
+  "name": "short-drama-skills",
+  "description": "AI 短剧创作技能套件，覆盖故事开发、视觉资产、分镜、生成与剪辑。",
   "skill_count": 15,
   "skills": [
     {

@@ -26,4 +26,4 @@ python <技能目录>/scripts/api.py --kind seedream --model <模型ID> --prompt
 图片能解码、比例尺寸正确、参考目标没有混淆。脚本响应解析失败、超时等写 unknown 或 failed，保留请求；不要因没有本地图片就盲目重复计费。无凭据时离线打包仍可完成，清楚说明未调用后端。
 
 ## 来源与限制
-依据 [技能合集](https://bytedance.larkoffice.com/wiki/BdgQwEQPHi0EXckhyiOcT8cnn4c) 的 Seedream 能力重建，接口按官方资料核对。脚本实现基础文生图／多参考编辑，不声称覆盖所有流式、图层等高级功能。
+Seedream 工作流参考：[技能合集](https://bytedance.larkoffice.com/wiki/BdgQwEQPHi0EXckhyiOcT8cnn4c)，接口按官方资料核对。脚本支持基础文生图／多参考编辑；流式、图层等高级功能不在当前脚本范围内。

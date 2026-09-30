@@ -23,4 +23,4 @@ description: 根据文字分镜和已审核视觉资产编写可提交视频模�
 没有“1 秒内停留 3 秒”之类矛盾；每个参考能指向真实已审核文件；同一 prompt 与参数可追踪。产物失败时判断是提示词、资产还是后端限制，先改一个具体问题再做小范围验证。
 
 ## 来源与限制
-依据 [技能合集](https://bytedance.larkoffice.com/wiki/BdgQwEQPHi0EXckhyiOcT8cnn4c) 的电影提示词能力重建。详细指令不能保证随机模型完全遵循。
+电影提示词工作流参考：[技能合集](https://bytedance.larkoffice.com/wiki/BdgQwEQPHi0EXckhyiOcT8cnn4c)。详细指令不能保证随机模型完全遵循。

@@ -30,4 +30,4 @@ python <技能目录>/scripts/media.py mix --input <对白wav> <配乐wav> --out
 完整解码；听开头、高潮、接缝和结尾，检查无爆音、削波、声道反相及对白被淹没。保留未处理轨便于重新混音。
 
 ## 来源与限制
-依据 [技能合集](https://bytedance.larkoffice.com/wiki/BdgQwEQPHi0EXckhyiOcT8cnn4c) 的音频工具能力重建；[滤镜文档](https://ffmpeg.org/ffmpeg-filters.html) 为参数依据。本技能不直接生成 TTS。
+音频处理工作流参考：[技能合集](https://bytedance.larkoffice.com/wiki/BdgQwEQPHi0EXckhyiOcT8cnn4c)；参数依据：[滤镜文档](https://ffmpeg.org/ffmpeg-filters.html)。本技能不直接生成 TTS。

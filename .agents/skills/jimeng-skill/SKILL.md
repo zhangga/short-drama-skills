@@ -24,4 +24,4 @@ description: 使用即梦 Dreamina CLI 生成图像、参考视频并查询已�
 保存精确模型、prompt、引用、参数、任务 ID 和输出位置。若 CLI 不可用，交付可审核 prompt 和请求清单并报告缺失依赖；不得虚报生成成功。重试先查询既有任务，避免重复扣费。
 
 ## 来源与限制
-依据 [技能合集](https://bytedance.larkoffice.com/wiki/BdgQwEQPHi0EXckhyiOcT8cnn4c) 的即梦用例重建。原文未提供 CLI 技能源码，本套件交付时安装／登录／计费生成尚未实测；实际安装状态以本机检查为准。
+即梦工作流参考：[技能合集](https://bytedance.larkoffice.com/wiki/BdgQwEQPHi0EXckhyiOcT8cnn4c)。本套件交付时安装／登录／计费生成尚未实测；实际安装状态以本机检查为准。

@@ -23,4 +23,4 @@ description: 把小说片段或已定稿剧本转成有时间轴、动作、对�
 故事信息可从画面／声音读懂；对白能说完；无自相矛盾的镜头停留时间。脚本只校验结构，不能证明故事、空间与表演合理。密度及对白速度提示仅是启发式，结合朗读和样片判断。
 
 ## 来源与限制
-依据 [技能合集](https://bytedance.larkoffice.com/wiki/BdgQwEQPHi0EXckhyiOcT8cnn4c) 的动作、摄影、灯光原则重建；原文 15 秒示例含时序矛盾，本技能补入校验。
+动作、摄影与灯光设计参考：[技能合集](https://bytedance.larkoffice.com/wiki/BdgQwEQPHi0EXckhyiOcT8cnn4c)。本技能提供时序与资产引用校验，创作质量仍需结合剧本和样片审看。

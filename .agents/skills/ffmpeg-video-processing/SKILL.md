@@ -30,4 +30,4 @@ python <技能目录>/scripts/media.py check --input <成片> --execute
 脚本拒绝覆盖输出和以输入文件作输出；命令失败非零退出。失败产物可能存在，检查后写新路径再跑，不能自动覆盖用户文件。最终 approved 需观看，不仅工具退出成功。
 
 ## 来源与限制
-依据 [技能合集](https://bytedance.larkoffice.com/wiki/BdgQwEQPHi0EXckhyiOcT8cnn4c) 的工具能力重建；[FFmpeg 官方文档](https://ffmpeg.org/ffmpeg.html) 为命令依据。
+视频处理工作流参考：[技能合集](https://bytedance.larkoffice.com/wiki/BdgQwEQPHi0EXckhyiOcT8cnn4c)；命令依据：[FFmpeg 官方文档](https://ffmpeg.org/ffmpeg.html)。
